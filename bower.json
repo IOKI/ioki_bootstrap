@@ -1,0 +1,24 @@
+{
+  "name": "IOKI_Bootstrap",
+  "version": "0.0.0",
+  "description": "IOKI Visual Guidelines for pan-pearson usage and for PE",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap",
+    "ioki"
+  ],
+  "authors": [
+    "apadol"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies" : {
+    "bootstrap" : "*"
+  }
+}
